@@ -1,0 +1,12 @@
+#cabecera{
+    font: bold 1.3em Verdana;
+    background-color: aquamarine;
+}
+.footer{
+    background-color: lightcoral;
+    padding: 1em 0;
+    text-align: left;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

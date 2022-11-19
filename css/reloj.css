@@ -1,0 +1,22 @@
+#reloj { 
+    width: 150px; 
+    height: 30px; 
+    padding: 5px 10px; 
+    border: 1px solid black; 
+    font: bold 1.5em dotum, "lucida sans", arial; 
+    text-align: center;
+    float: left;
+    margin: 1em 3em 1em 1em; 
+}
+#cabecera{
+    font: bold 1.3em Verdana;
+    background-color: aquamarine;
+}
+.footer{
+    background-color: lightcoral;
+    padding: 1em 0;
+    text-align: left;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
